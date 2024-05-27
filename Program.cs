@@ -2,12 +2,14 @@
 //using ecomerceWithAngularAnd_Api.Data;
 
 using Infrastructur.Data;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Core
 {
     public class Program
     {
+        
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
@@ -27,7 +29,7 @@ namespace Core
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
-
+            
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
@@ -36,6 +38,7 @@ namespace Core
             }
 
             app.UseHttpsRedirection();
+            DataSeddingAsync();
 
             app.UseAuthorization();
 
@@ -43,6 +46,29 @@ namespace Core
             app.MapControllers();
 
             app.Run();
+
+
+            async Task DataSeddingAsync()
+            {
+               
+               using(var scope=app.Services.CreateScope())
+                {
+                    var services=scope.ServiceProvider;
+                    var loggerFactory=services.GetRequiredService<ILoggerFactory>();
+                    try
+                    {
+                        var context = services.GetRequiredService<storeContext>();
+                        await context.Database.MigrateAsync();
+                         DataSeedContext.Dataseeding(context,loggerFactory);
+                    }
+                    catch (Exception ex)
+                    {
+                        var logger=loggerFactory.CreateLogger<Program>();
+                        logger.LogError(ex, "log error happened in program migration");
+                    }
+
+                }
+            }
         }
     }
 }
