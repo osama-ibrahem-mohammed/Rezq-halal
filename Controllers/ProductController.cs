@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Core.Entity;
+using Infrastructur.repository;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Core.Controllers
@@ -7,10 +9,17 @@ namespace Core.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        [HttpGet]
-        public string Get()
+        private readonly IUnitOfWork unitOfWork;
+
+        public ProductController(IUnitOfWork unitOfWork)
         {
-            return "";
+            this.unitOfWork = unitOfWork;
+        }
+        [HttpGet]
+        public async Task<List<Product>> Get()
+        {
+            var products= await unitOfWork.ProductRepo.GetAll();
+            return products.ToList();
         }
     }
 }

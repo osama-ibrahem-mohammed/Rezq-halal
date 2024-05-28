@@ -10,6 +10,28 @@
       "RelativeMoniker": "D:0:0:{568012C6-5507-4B7E-AA96-5F00BF17AF32}|ecomerceWithAngularAnd Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{568012C6-5507-4B7E-AA96-5F00BF17AF32}|ecomerceWithAngularAnd Api.csproj|g:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\videos\\27-proj\\ecomercewithangularand api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568012C6-5507-4B7E-AA96-5F00BF17AF32}|ecomerceWithAngularAnd Api.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C5018-66E9-4EE5-9C26-A1501392AF4D}|..\\Infrastructur\\Infrastructur.csproj|g:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\videos\\27-proj\\infrastructur\\repository\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C5018-66E9-4EE5-9C26-A1501392AF4D}|..\\Infrastructur\\Infrastructur.csproj|g:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\videos\\27-proj\\infrastructur\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C5018-66E9-4EE5-9C26-A1501392AF4D}|..\\Infrastructur\\Infrastructur.csproj|g:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\videos\\27-proj\\infrastructur\\repository\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C5018-66E9-4EE5-9C26-A1501392AF4D}|..\\Infrastructur\\Infrastructur.csproj|g:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\videos\\27-proj\\infrastructur\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C5018-66E9-4EE5-9C26-A1501392AF4D}|..\\Infrastructur\\Infrastructur.csproj|g:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\videos\\27-proj\\infrastructur\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8C5018-66E9-4EE5-9C26-A1501392AF4D}|..\\Infrastructur\\Infrastructur.csproj|g:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\videos\\27-proj\\infrastructur\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E8C5018-66E9-4EE5-9C26-A1501392AF4D}|..\\Infrastructur\\Infrastructur.csproj|g:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\videos\\27-proj\\infrastructur\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,10 +69,6 @@
       "AbsoluteMoniker": "D:0:0:{64524E5F-C248-4DCA-9276-00D8F39A815C}|..\\Core\\Core.csproj|g:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\videos\\27-proj\\core\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{568012C6-5507-4B7E-AA96-5F00BF17AF32}|ecomerceWithAngularAnd Api.csproj|g:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\videos\\27-proj\\ecomercewithangularand api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{568012C6-5507-4B7E-AA96-5F00BF17AF32}|ecomerceWithAngularAnd Api.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64524E5F-C248-4DCA-9276-00D8F39A815C}|..\\Core\\Core.csproj|g:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\videos\\27-proj\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -65,7 +83,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,15 +95,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataSeedContext.cs",
-              "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\Data\\DataSeedContext.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructur\\Data\\DataSeedContext.cs",
-              "ToolTip": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\Data\\DataSeedContext.cs",
-              "RelativeToolTip": "..\\Infrastructur\\Data\\DataSeedContext.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAvwDwAAAAIAAAA",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\repository\\Implementation\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructur\\repository\\Implementation\\ProductRepository.cs",
+              "ToolTip": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\repository\\Implementation\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Infrastructur\\repository\\Implementation\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T19:45:45.92Z",
+              "WhenOpened": "2024-05-28T11:33:12.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructur\\repository\\UnitOfWork.cs",
+              "ToolTip": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\repository\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\Infrastructur\\repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwBMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:29:07.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\repository\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructur\\repository\\Repository.cs",
+              "ToolTip": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\repository\\Repository.cs",
+              "RelativeToolTip": "..\\Infrastructur\\repository\\Repository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:55:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\repository\\Irepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructur\\repository\\Irepository\\IRepository.cs",
+              "ToolTip": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\repository\\Irepository\\IRepository.cs",
+              "RelativeToolTip": "..\\Infrastructur\\repository\\Irepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:09:34.227Z",
               "EditorCaption": ""
             },
             {
@@ -96,14 +153,66 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\ecomerceWithAngularAnd Api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAvwD0AAAAZAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T22:43:51.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\ecomerceWithAngularAnd Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\ecomerceWithAngularAnd Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:36:49.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSeedContext.cs",
+              "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\Data\\DataSeedContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructur\\Data\\DataSeedContext.cs",
+              "ToolTip": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\Data\\DataSeedContext.cs",
+              "RelativeToolTip": "..\\Infrastructur\\Data\\DataSeedContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:45:45.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\repository\\interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructur\\repository\\interfaces\\IProductRepository.cs",
+              "ToolTip": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\repository\\interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "..\\Infrastructur\\repository\\interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:31:04.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructur\\repository\\IUnitOfWork.cs",
+              "ToolTip": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\Infrastructur\\repository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:28:42.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ProductType.cs",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Core\\Entity\\ProductType.cs",
               "RelativeDocumentMoniker": "..\\Core\\Entity\\ProductType.cs",
@@ -111,12 +220,11 @@
               "RelativeToolTip": "..\\Core\\Entity\\ProductType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T10:12:38.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T10:12:38.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "storeContext.cs",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\Data\\storeContext.cs",
               "RelativeDocumentMoniker": "..\\Infrastructur\\Data\\storeContext.cs",
@@ -124,12 +232,11 @@
               "RelativeToolTip": "..\\Infrastructur\\Data\\storeContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T22:45:13.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T22:45:13.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ProductConfigurations.cs",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\Config\\ProductConfigurations.cs",
               "RelativeDocumentMoniker": "..\\Infrastructur\\Config\\ProductConfigurations.cs",
@@ -137,12 +244,11 @@
               "RelativeToolTip": "..\\Infrastructur\\Config\\ProductConfigurations.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T10:55:15.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T10:55:15.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "products.json",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\Data\\SeedData\\products.json",
               "RelativeDocumentMoniker": "..\\Infrastructur\\Data\\SeedData\\products.json",
@@ -150,12 +256,11 @@
               "RelativeToolTip": "..\\Infrastructur\\Data\\SeedData\\products.json",
               "ViewState": "AQIAACIAAAAAAAAAAAAAACQAAADjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-26T22:55:31.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T22:55:31.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\ecomerceWithAngularAnd Api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -163,12 +268,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-19T22:34:53.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T22:34:53.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "ProductBrand.cs",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Core\\Entity\\ProductBrand.cs",
               "RelativeDocumentMoniker": "..\\Core\\Entity\\ProductBrand.cs",
@@ -176,12 +280,11 @@
               "RelativeToolTip": "..\\Core\\Entity\\ProductBrand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T10:12:33.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T10:12:33.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Product.cs",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Core\\Entity\\Product.cs",
               "RelativeDocumentMoniker": "..\\Core\\Entity\\Product.cs",
@@ -189,12 +292,11 @@
               "RelativeToolTip": "..\\Core\\Entity\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T22:44:47.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T22:44:47.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "brands.json",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\Data\\SeedData\\brands.json",
               "RelativeDocumentMoniker": "..\\Infrastructur\\Data\\SeedData\\brands.json",
@@ -202,12 +304,11 @@
               "RelativeToolTip": "..\\Infrastructur\\Data\\SeedData\\brands.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-26T19:55:03.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T19:55:03.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "20240525101620_init.cs",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\Migrations\\20240525101620_init.cs",
               "RelativeDocumentMoniker": "..\\Infrastructur\\Migrations\\20240525101620_init.cs",
@@ -219,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "storeContextModelSnapshot.cs",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\Migrations\\storeContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "..\\Infrastructur\\Migrations\\storeContextModelSnapshot.cs",
@@ -231,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "20240525112556_extendProduct.cs",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Infrastructur\\Migrations\\20240525112556_extendProduct.cs",
               "RelativeDocumentMoniker": "..\\Infrastructur\\Migrations\\20240525112556_extendProduct.cs",
@@ -243,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Core\\Entity\\BaseEntity.cs",
               "RelativeDocumentMoniker": "..\\Core\\Entity\\BaseEntity.cs",
@@ -255,19 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\ecomerceWithAngularAnd Api\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\ecomerceWithAngularAnd Api\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T21:36:49.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "Core.csproj",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "..\\Core\\Core.csproj",
@@ -279,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "G:\\projects\\asp\u002Bang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\ecomerceWithAngularAnd Api\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
