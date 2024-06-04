@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iyo/YwRr8xirsuFqRm42zRpaUxjGbWfokWLTsJN1oFDSMQ1jm0fwRlHBX3y9ocL+hZadTwT+nMeozX3/5R/Adg==",
+  "dgSpecHash": "8JhZiUyFb1A5T/U7gR126ympDFkLZSz4u+XmDBFuWD3EPagGDEyuPDaqLTmFiEU0oPwIGuI9wFwePjgWvUWIgg==",
   "success": true,
   "projectFilePath": "G:\\projects\\asp+ang\\angular\\ecommerce angular project\\course\\Videos\\27-proj\\ecomerceWithAngularAnd Api\\ecomerceWithAngularAnd Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Osama\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Osama\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Osama\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Osama\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

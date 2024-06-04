@@ -138,3 +138,5 @@ G:\projects\asp+ang\angular\ecommerce angular project\course\Videos\27-proj\ecom
 G:\projects\asp+ang\angular\ecommerce angular project\course\Videos\27-proj\ecomerceWithAngularAnd Api\bin\Debug\net8.0\Infrastructur.pdb
 G:\projects\asp+ang\angular\ecommerce angular project\course\Videos\27-proj\ecomerceWithAngularAnd Api\bin\Debug\net8.0\Core.pdb
 G:\projects\asp+ang\angular\ecommerce angular project\course\Videos\27-proj\ecomerceWithAngularAnd Api\obj\Debug\net8.0\ecomerceWithAngularAnd Api.sourcelink.json
+G:\projects\asp+ang\angular\ecommerce angular project\course\Videos\27-proj\ecomerceWithAngularAnd Api\bin\Debug\net8.0\AutoMapper.dll
+G:\projects\asp+ang\angular\ecommerce angular project\course\Videos\27-proj\ecomerceWithAngularAnd Api\obj\Debug\net8.0\ecomerceWithAngularAnd Api.MvcApplicationPartsAssemblyInfo.cs
